@@ -21,10 +21,10 @@ MagiskVM ini mendukung Magisk Module.**
 MASALAH/BUG:
 - Tidak bisa install Magisk Module
 - Magisk Additional Setup tidak
-berjalan dengan baik
+  berjalan dengan baik
 - Beberapa VirtualMachine/Android
-Emulator (VMOS, dll) masih tidak
-mendukung Reboot System. jadi, kami
-perlu membuat program untuk membuat
-Reboot System bekerja sesuai fungsinya
+  Emulator (VMOS, dll) masih tidak
+  mendukung Reboot System. jadi, kami
+  perlu membuat program untuk membuat
+  Reboot System bekerja sesuai fungsinya
 ```
